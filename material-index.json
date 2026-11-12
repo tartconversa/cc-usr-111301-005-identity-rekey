@@ -1,0 +1,17 @@
+[
+  {
+    "path": "fixtures/assertions.jsonl",
+    "sha256": "518cc7a8b9954065ef861218838e12efcee180784b0ae0f4fb746641a4e701be",
+    "size_bytes": 338
+  },
+  {
+    "path": "fixtures/facts.csv",
+    "sha256": "ba0f78039e38c956401a8ae0d6ff4fbb3a6475f329274b283ee397a859a86439",
+    "size_bytes": 48
+  },
+  {
+    "path": "fixtures/identity.json",
+    "sha256": "6411986007a86ad61f630cd554b056aa16b42a47c78cbd61f730c9b60c820d7a",
+    "size_bytes": 191
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "canonical": "minimum_alias_lexicographic",
+  "version_cuts": [
+    2,
+    3,
+    4
+  ],
+  "fact_semantics": "immutable_multiset",
+  "counterexample_extra_edge": [
+    "a",
+    "c"
+  ]
+}

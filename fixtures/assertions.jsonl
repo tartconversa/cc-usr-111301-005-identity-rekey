@@ -1,0 +1,4 @@
+{"assertion_id": "ab", "revision": 1, "left": "a", "right": "b", "withdrawn": false}
+{"assertion_id": "bc", "revision": 1, "left": "b", "right": "c", "withdrawn": false}
+{"assertion_id": "bc", "revision": 2, "left": "b", "right": "c", "withdrawn": true}
+{"assertion_id": "ab", "revision": 2, "left": "a", "right": "b", "withdrawn": true}
